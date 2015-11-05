@@ -4,10 +4,12 @@
 permalink:           pretty
 relative_permalinks: true
 
+gems: [jekyll-paginate]
+
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Matt Batista
+tagline:             Friendly neighborhood web developer
+url:                 http://sirmatt.github.io
 paginate:            1
 baseurl:             ""
 
@@ -20,11 +22,11 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Matt Batista
+  url:               https://twitter.com/mattoflegend
+  email:             mattbatista@me.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/sirmatt/sirmatt.github.io
