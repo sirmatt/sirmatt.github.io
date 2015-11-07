@@ -1,8 +1,10 @@
 
 #Permalinks
-permalink:           pretty
+permalink:  pretty
 
 gems: [jekyll-paginate]
+
+highlighter: pygments
 
 # Setup
 title:               Matt Batista
