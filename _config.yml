@@ -1,8 +1,8 @@
+gems: [jekyll-paginate]
 
 #Permalinks
-permalink:  pretty
+permalink: "/:title"
 
-gems: [jekyll-paginate]
 
 highlighter: pygments
 
