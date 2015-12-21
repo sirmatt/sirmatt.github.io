@@ -7,14 +7,14 @@ permalink: "/:title"
 highlighter: pygments
 
 # Setup
-title:               Matt Batista
+title:               matt_batista
 tagline:             'Junior web dev for hire!'
 description:         'Junior web dev for hire!'
 url:                 https://sirmatt.github.io
 
 # About/contact
 author:
-  name:              'Matt Batista'
+  name:              'matt_batista'
   url:               https://twitter.com/mattoflegend
   email:             mattbatista@me.com
 
@@ -34,5 +34,5 @@ version:             1.0.0
 github:
   repo:              https://github.com/sirmatt/sirmatt.github.io
 
-# This is the list of pages to incldue in the header of the website.
+# This is the list of pages to include in the header of the website.
 pages_list: {'About': '/about', 'Archive':'/archive', 'Feed':'/atom.xml'}
