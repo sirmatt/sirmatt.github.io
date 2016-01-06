@@ -33,7 +33,7 @@ Coding is damn tough. Getting started was even tougher.
 * What's important to know now, and what's not
 * Algorithms, git, version control, buzz words, libraries - - ! !
 
-Believe me, I battle with those feelings even today. There's still so much I don't know and I love that. It means there's always a limit yet to be reached.
+Believe me, I battle with those feelings even today. There's still so much I don't know and I love that; it means there's something more to discover and learn.
 
 I cannot wait to hit the ground running and start providing real value to make a difference.
 
