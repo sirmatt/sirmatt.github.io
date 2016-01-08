@@ -1,6 +1,6 @@
 ---
 layout: post
-title: obligatory_welcome_post
+title: obligatory welcome post
 comments: true
 permalink:
 ---
