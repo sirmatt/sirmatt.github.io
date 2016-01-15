@@ -61,8 +61,17 @@
 .highlight .il { color: #f60 } /* Literal.Number.Integer.Long */
 
 /* Add to css/syntax.css */
-.highlight .lineno { color: #ccc; display: inline-block; padding: 0 5px; border-right:1px solid #ccc; }
-.highlight pre code { width: 550px; display: block; white-space: pre; overflow-x: auto; word-wrap: break-word; }
+.highlight .lineno { color: #ccc;
+  display: inline-block;
+  padding: 0 5px;
+  border-right:1px solid #ccc;
+}
+
+.highlight pre code { width: 550px;
+  display: block;
+  white-space: pre;
+  overflow-x: auto;
+}
 
 .css .o,
 .css .o + .nt,
