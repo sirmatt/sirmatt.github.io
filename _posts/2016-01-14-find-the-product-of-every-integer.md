@@ -1,6 +1,6 @@
 ---
 layout: post
-title: coding challenge => find the product of every integer except the integer at that index
+title: coding challenge => You have an array of integers, and for each index you want to find the product of every integer except the integer at that index.
 comments: true
 permalink:
 ---
