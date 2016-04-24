@@ -5,36 +5,43 @@ title: sawadee!
 
 *What's up, my name is at the top of the page in case you're wondering. Below you'll find my handsome mugshot and a bit of my coding origin story.*
 
-TL;DR
-<br>
-I am a <code>web developer</code> with experience in Ruby + Rails. I want a few things:
+![It's ya boy!](http://i.imgur.com/wppdcGF.jpg)
 
-- I really want to write code that is useful and has value
-- I want to work alongside smart people who encourage me to be the best version of me possible i.e. => <code>bundle install matt</code>
-- I want to work for a company that challenges and enriches what I know already, with mentors to learn from and push my boundaries even further
-- I want to double dutch without falling
-- I want to invent socks that never slip below the heel
-- I want to fire a tranq dart, whilst on horseback, into a target's neck and say "Mission Complete" then ride into the sunset
+###TL;DR
+I am a <code>web developer</code> with experience in <code>Ruby</code>, <code>JavaScript</code>, <code>jQuery</code>, the dynamic duo <code>HTML/CSS</code>, and MVC frameworks such as <code>Ruby on Rails</code>.
+<br>
 
+I want a few things:
+
+- To leave code in much better shape than I found it
+- To surround myself with challenges and people that enrich what I know already so I can level-up
+- To mentor anyone on their own coding journey whenever, and however I can. This community has my back, I'm just returning the favor <code>:)</code>
 <br>
-<br>
-![It's ya boy!](http://i.imgur.com/oiuVgQ4.jpg)
-<br>
-I suppose it all started when I was in the womb. Instead of floating around for nine months doing nothing, I decided to take action. In order to stave off boredom, I made a computer with spare parts I found floating around the amniotic fluid. It wasn't much, but I was able to MacGyver a decent laptop with 1GB of RAM. I powered it mainly through oxygen I got from my umbilical cord (tutorial video coming soon). Self-teaching and a lot of all-nighters made me proficient in placenta.js and zygoteDB. Lol.
+
+***
+
+## Le Coding Origin
+
+I suppose it all started when I was in the womb. Instead of floating around for nine months doing nothing, I decided to take action. In order to stave off boredom, I made a computer with spare parts I found floating around the amniotic fluid. It wasn't much, but I was able to MacGyver a decent laptop with 1GB of RAM. I powered it mainly through oxygen I got from my umbilical cord (tutorial video coming soon). Self-teaching and a lot of all-nighters made me proficient in placenta.js and zygoteDB. <em>Lol</em>.
 
 All joking aside, my origin story doesn't paint me as someone who got started in programming at an early age.
 
-Three years ago, my friend was finishing up Hack Reactor in San Francisco and had **a lot** of amazing stories about his coding journey. This same friend is apart of a close-knit group of friends that I've had for many moons, think elementary school. A few of us got together one night and began to have a dialogue about technology and where our place could be in this gargantuan career field.
+Three years ago, one of my best friends was finishing up a stint @ Hack Reactor in San Francisco and had **a lot** of amazing stories about his coding journey and experience. This same friend is apart of a close-knit group of friends that I've had for many moons (think: elementary school). A few of us got together and began to have a dialogue about technology and where our place could be in this gargantuan  and evolving field.
 
-We shared a lot about how unsatisfied we were with our current careers, 20-somethings still trying to figure stuff out. We talked about the mind-boggling compensation, the sheer demand for programmers, and how San Francisco is a mecca for newcomers to get their careers started. All we had to do was learn *"how to code"*, and we could craft something that brings immense value to people. **_Whoa_**.
+We shared a lot about how unsatisfied we were with our current careers, 20-somethings still trying to figure stuff out. We talked about being able to build intangible wonders used and loved by people around the world. Our eyes widened at the sheer demand for programmers, and how San Francisco is a mecca for newcomers to get their careers started. All we had to do was learn *"how to code"*, and we could craft something that brings immense value to people. **_Whoa_**.
 
-I had a lot of questions and the answers led me to this:
+***
 
-***Someone like me, with nothing but retail experience and zero programming know-how, can make a career change into tech and fundamentally change not only my quality of life, but give it real challenge and excitement.***
+##I had a lot of questions and the answers led me to to these revelations
 
-I want to write code that has use. Every time I hear someone say "_How did I ever live life without X, Y, or Z technologies_" it makes my synapses fire off excitedly. I've said this countless times myself. I want to have a hand in creating something sensational that instills similar feelings in others.
+<br>
+***Someone like me, with nothing but retail experience and little programming know-how, can make a career change into tech and fundamentally change not only my quality of life, but give it real challenge and excitement.***
+<br>
+<br>
 
-I decided that this was a path I definitely wanted to embark on. Although I didn't fully grasp how Sisyphean of a task learning to code was going to be, I relished the moment where I land my first job. That's the goal I set for myself. A goal without a plan though, is just a wish.
+I want to write code that has use. Every time I hear someone say "_How did I ever live life without X, Y, or Z technologies_" it makes my synapses fire off. I've said this countless times myself. I want to have a hand in creating something sensational that instills similar feelings in others.
+
+It became clear that this was a path I definitely wanted to embark on. Although I didn't fully grasp the Sisyphean task learning to code was going to be, I relished the moment where I can add <code>software engineer</code> to my job title. That's the goal I set for myself. A goal without a plan though, is just a wish.
 
 I had to enter the labyrinth that is **learning to code**:
 
