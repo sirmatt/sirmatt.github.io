@@ -5,17 +5,21 @@ title: sawadee!
 
 *What's up, my name is at the top of the page in case you're wondering. Below you'll find my handsome mugshot and a bit of my coding origin story.*
 
-![It's ya boy!](http://i.imgur.com/OFdZrsh.jpg)
+![It's ya boy!](http://i.imgur.com/at0lMiq.jpg)
 
 ###TL;DR
-I am a <code>web developer</code> with experience in <code>Ruby</code>, <code>JavaScript</code>, <code>jQuery</code>, the dynamic duo <code>HTML/CSS</code>, and MVC frameworks such as <code>Ruby on Rails</code>.
+I am a <code>web developer</code> with experience in <code>Ruby</code>, <code>JavaScript</code>, the dynamic duo <code>HTML/CSS</code>, <code>Test Driven Development</code>, version control à la <code>Git</code>, and MVC frameworks like <code>Ruby on Rails</code>.
+
+By no means an exhaustive list, there will <em>always</em> be something new to pack into my brain, and that's only one aspect of this career field that excites me the most. I know full well that software engineering is a craft that takes time to sharpen; I'm just enjoying the ride.
+
+**Viam supervadet vadens** :metal:
 <br>
 
 I want a few things:
 
-- To leave code in much better shape than I found it
-- To surround myself with challenges and people that enrich what I know already so I can level-up
-- To mentor anyone on their own coding journey whenever, and however I can. This community has my back, I'm just returning the favor <code>:)</code>
+- To leave code in better shape than I found it
+- To surround myself with people and challenges that enrich what I know already so I can level-up
+- To mentor anyone on their own coding journey *whenever*, and *however* I can.
 <br>
 
 ***
