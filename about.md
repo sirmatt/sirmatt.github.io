@@ -12,7 +12,7 @@ I am a <code>web developer</code> with experience in <code>Ruby</code>, <code>Ja
 
 By no means an exhaustive list, there will <em>always</em> be something new to pack into my brain, and that's only one aspect of this career field that excites me the most. I know full well that software engineering is a craft that takes time to sharpen; I'm just enjoying the ride.
 
-**Viam supervadet vadens**
+**Viam supervadet vadens** => *The path will be overcome by the person walking it*
 <br>
 
 I want a few things:
@@ -62,21 +62,23 @@ As a milestone project, we got together and decided to build our very first Rail
 
 ![cross bone comp](http://i.imgur.com/4nv0rwE.gif?1)
 
-After many errors and frustrations, we had a shiny Rails web application that addressed the needs of the online gaming community. It connected players who wanted to play the same game,  together. A lot of the time, the matchmaking that comes built in doesn't cut the mustard. Thus, [Supreme LFG](http://www.supremelfg.com) (looking for group) was born!
+After many errors and frustrations, we had a shiny Rails web application that addressed the needs of the online gaming community. It connected players who wanted to play the same game, together. A lot of the time, the matchmaking that comes built in doesn't cut the mustard.
 
-Such a bitter sweet learning experience, but I knew I needed to fast-track my learning. My amigos and I researched around for a well rounded Ruby/Rails bootcamp curriculum and decided to apply and see where it took us. Some Skype interviews and a few coding challenges later, I got accepted! The bootcamp required my undivided attention for the next 3 months.
+Such a bitter sweet learning experience, but I knew I needed to fast-track my learning. My amigos and I researched around for a well rounded Ruby/Rails full-stack program in San Francisco and decided to apply and see where it took us. Some Skype interviews and a few coding challenges later, I got accepted! The program required my undivided attention for the next 3 months.
 
-With an absurd amount of fear that I was somehow making the wrong choice, I quit my comfortable job @ Apple and put myself through a rigorous **1,000 hour** software development course in San Francisco.
+With an absurd amount of fear that I was somehow making the wrong choice, I quit my comfortable job @ Apple and put myself through a rigorous **1,000 hour** rollercoaster ride of learning what I needed to be a successful <code>software engineer</code>.
 
-***The hardest endeavor I think I've ever attempted in my life.***
+The pace of the program and immense amount of learning was crushing at times. I felt like I didn't belong next to my peers who came in with PhDs in mathematics or who **already** has prior programming experience!
 
-The pace of the program and immense amount of learning was crushing at times. I felt like I didn't belong next to my peers who came in with PhDs in mathematics or who had prior programming experience to give them that *edge*. Not only that, there was the added pressure of failing and having nothing to show for it.
+**Stress! Stress! Stress!** The program challenged the hell out of me and brought me to the brink of madness many times. I reflected and wrote about my experiences after every day.
 
-**Stress! Stress! Stress!** The program challenged the hell out of me and brought me to the brink of madness many times. I had to keep my eye on the prize at all costs.
+After the program, I felt changed; not only as a person but a developer too.
+
+Imagine living your whole life with a pair of binoculars to see the world around you. Then, you're shown and given a powerful telescope to see the universe. Thats exactly what it felt like for me on my developer journey.
 
 ![spock](http://i.imgur.com/ajweUt9.png)
 
-I did, and now I'm here. That goal that long ago seemed so far away, is now within my grasp. Out of gratitude for the countless people who have helped me through my hurdles, I felt it only right that I give back to the coding community as much as I possible can (one of the big reasons for getting a blog going). It's important to me that I help other new developers if and when I can.
+That goal that long ago seemed so far away, is now within my grasp. Out of gratitude for the countless people who have helped me through my hurdles, I felt it only right that I give back to the coding community as much as I possible can (one of the big reasons for getting a blog going).
 
 I've never been so close to achieving something I've wanted so badly. Getting hired to develop and write code that others will find useful and enjoy seemed impossible 3 years ago. Now, it's all I think about.
 
