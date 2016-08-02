@@ -5,7 +5,7 @@ title: sawadee!
 
 *What's up, my name is at the top of the page in case you're wondering. Below you'll find my handsome mugshot and a bit of my coding origin story.*
 
-![It's ya boy!](http://i.imgur.com/wppdcGF.jpg)
+![It's ya boy!](http://i.imgur.com/OFdZrsh.jpg)
 
 ###TL;DR
 I am a <code>web developer</code> with experience in <code>Ruby</code>, <code>JavaScript</code>, <code>jQuery</code>, the dynamic duo <code>HTML/CSS</code>, and MVC frameworks such as <code>Ruby on Rails</code>.
