@@ -7,12 +7,12 @@ title: sawadee!
 
 ![It's ya boy!](http://i.imgur.com/at0lMiq.jpg)
 
-###TL;DR
+### TL;DR
 I am a <code>web developer</code> with experience in <code>Ruby</code>, <code>JavaScript</code>, the dynamic duo <code>HTML/CSS</code>, <code>Test Driven Development</code>, version control à la <code>Git</code>, and MVC frameworks like <code>Ruby on Rails</code>.
 
 By no means an exhaustive list, there will <em>always</em> be something new to pack into my brain, and that's only one aspect of this career field that excites me the most. I know full well that software engineering is a craft that takes time to sharpen; I'm just enjoying the ride.
 
-**Viam supervadet vadens** :metal:
+**Viam supervadet vadens**
 <br>
 
 I want a few things:
@@ -30,17 +30,18 @@ I suppose it all started when I was in the womb. Instead of floating around for 
 
 All joking aside, my origin story doesn't paint me as someone who got started in programming at an early age.
 
-Three years ago, one of my best friends was finishing up a stint @ Hack Reactor in San Francisco and had **a lot** of amazing stories about his coding journey and experience. This same friend is apart of a close-knit group of friends that I've had for many moons (think: elementary school). A few of us got together and began to have a dialogue about technology and where our place could be in this gargantuan  and evolving field.
+Three years ago, one of my best friends was finishing up a stint @ Hack Reactor in San Francisco and had **a lot** of amazing stories about his coding journey and experience. A few of us got together and began to have a serious dialogue about technology and where our place could be in this gargantuan and evolving field.
 
-We shared a lot about how unsatisfied we were with our current careers, 20-somethings still trying to figure stuff out. We talked about being able to build intangible wonders used and loved by people around the world. Our eyes widened at the sheer demand for programmers, and how San Francisco is a mecca for newcomers to get their careers started. All we had to do was learn *"how to code"*, and we could craft something that brings immense value to people. **_Whoa_**.
+We shared a lot. I noticed a reoccuring theme: *how unsatisfied we were with our current careers*. 20-somethings still trying to figure stuff out.
+
+We talked about being able to build intangible wonders used and loved by people. Our eyes widened at the sheer demand for programmers, and how San Francisco is a mecca for newcomers to get their careers started. All we had to do was learn *"how to code"*, and we could craft something that brings immense value to people. **_Whoa_**.
 
 ***
 
-##I had a lot of questions and the answers led me to to these revelations
+## I had a ton (which is about 2,000lbs) of questions and seeking the answers led me to to a few revelations:
 
 <br>
-***Someone like me, with nothing but retail experience and little programming know-how, can make a career change into tech and fundamentally change not only my quality of life, but give it real challenge and excitement.***
-<br>
+**Someone like me, with nothing but retail experience and an insatiable appetite for learning, can make a career change into tech and fundamentally change not only my quality of life, but give it real challenge and excitement.**
 <br>
 
 I want to write code that has use. Every time I hear someone say "_How did I ever live life without X, Y, or Z technologies_" it makes my synapses fire off. I've said this countless times myself. I want to have a hand in creating something sensational that instills similar feelings in others.
