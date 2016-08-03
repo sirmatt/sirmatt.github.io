@@ -10,12 +10,16 @@
 
 html,
 body {
-  margin: 0;
+  // margin: 0;
   padding: 0;
+  margin: 0 auto;
+  padding: 2em;
+  text-align: left;
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 100%/1.6 "Lora", serif;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
 
